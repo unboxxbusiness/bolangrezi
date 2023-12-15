@@ -5,31 +5,31 @@ import { v4 as uuid } from "uuid";
 const ColumnData = [
     {
         id: uuid(),
-        title: "Emily J.",
+        title: "Ravi Kumar",
         icon: "carbon:user-avatar-filled-alt",
         content:
-            "NutriPlan has revolutionized my meal planning and nutrition journey. With its intuitive Notion template, I can effortlessly plan my meals, track my nutrition, and stay on top of my health goals. It's truly a game-changer!"
+            "This course transformed my communication skills! The dynamic learning and personalized feedback were game-changers. Now, I feel more confident and ready for any professional challenge."
     },
     {
         id: uuid(),
-        title: "Jason F.",
+        title: "Sonam.",
         icon: "carbon:user-avatar-filled-alt",
         content:
-            "I've tried various meal planning tools, but NutriPlan stands out from the rest. The customizable layouts and seamless recipe integration make it a breeze to create delicious and healthy meals. It's become an essential part of my wellness routine."
+            "Flexible scheduling made learning easy for a busy professional like me. The job-focused content and additional career support were practical and immediately applicable. Highly recommended"
     },
     {
         id: uuid(),
-        title: "Miguel J.",
+        title: "Mohit.",
         icon: "carbon:user-avatar-filled-alt",
         content:
-            "NutriPlan has made meal planning and tracking nutrition so much easier and enjoyable. The comprehensive features and user-friendly interface have helped me stay on track with my health goals. I highly recommend it to anyone looking for a convenient and effective solution."
+            "The recognized certification opened doors for my job search. The lifetime access is a fantastic bonus for ongoing skill refinement. This course is a must for mastering spoken English"
     },
     {
         id: uuid(),
-        title: "Kim L.",
+        title: "Rahul.",
         icon: "carbon:user-avatar-filled-alt",
         content:
-            "I can't imagine my nutrition journey without NutriPlan. It has simplified the way I plan my meals and track my progress. The ability to customize layouts and easily integrate recipes has made healthy eating a breeze. It's been a true lifesaver!"
+            "An exceptional course! The interactive activities, personalized feedback, and flexible scheduling made learning enjoyable and effective. The job-focused content gave me insights crucial for workplace communication"
     }
 ];
 

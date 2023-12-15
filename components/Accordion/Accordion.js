@@ -7,30 +7,30 @@ import clsx from "clsx";
 const accordionData = [
     {
         id: uuid(),
-        title: "What is Notion?",
+        title: "Is this course suitable for beginners?",
         isOpen: true,
         content:
-            "Notion is an all-in-one productivity tool that allows you to create notes, databases, and collaborative workspaces, making it easy to organize and manage your tasks, projects, and ideas in one place."
+            "Absolutely! Our Spoken English Course is designed for learners of all levels. Whether you're a beginner or looking to refine your existing skills, the course offers a comprehensive curriculum to meet your needs."
     },
     {
         id: uuid(),
-        title: "Who is this template for?",
+        title: "How does the personalized feedback work?",
         isOpen: false,
         content:
-            "This template is specifically designed for Notion creators who want to create a personalized landing page for their Notion workspace, showcasing their projects, services, or content in a visually appealing manner."
+            "Our experienced instructors provide personalized feedback based on your performance in interactive activities and assessments. This targeted feedback is instrumental in addressing your specific areas for improvement, ensuring effective skill development."
     },
     {
         id: uuid(),
-        title: "Do I need to pay for this?",
+        title: "Can I learn at my own pace?",
         isOpen: false,
-        content: "No, this is free."
+        content: "Yes, our course is designed with flexibility in mind. You can learn at your own pace, making it accessible for busy professionals and students alike."
     },
     {
         id: uuid(),
-        title: "Where can I ask more questions about this template?",
+        title: "What sets this course apart from others?",
         isOpen: false,
         content:
-            "If you have any further questions or need assistance regarding this template, please feel free to reach out to me on my website, or click the Contact within the navigation links."
+            "Our course stands out with its dynamic learning approach, job-focused content, and additional career support. The interactive activities, recognized certification, and lifetime access to course materials further distinguish it as a comprehensive and valuable program."
     }
 ];
 

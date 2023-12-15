@@ -17,10 +17,10 @@ const nextConfig = {
         domains: ["s.gravatar.com"]
     },
     env: {
-        siteTitle: "Your Company",
-        siteDescription: "Your company description.",
-        siteKeywords: "your company keywords",
-        siteUrl: "You site url",
+        siteTitle: "bolangrezi",
+        siteDescription: "Join our free Spoken English Course, learn key job-winning secrets, and transform your career journey!.",
+        siteKeywords: "spoken english course, free spoken english course, spoken english course delhi free , spoken english course noida",
+        siteUrl: "https://bolangrezi.in",
         siteImagePreviewUrl: "/images/preview.jpeg",
         twitterHandle: "@your_handle"
     },

@@ -16,9 +16,9 @@ export const Header = () => {
                     <h1 className="logo mb-0">
                         <Link href="/">
                             <Image
-                                src="/nutritrack.svg"
+                                src="/logo.png"
                                 alt="logo"
-                                className="h-6 w-auto"
+                                className="h-13 w-auto"
                                 height="24"
                                 width="100"
                                 priority
@@ -31,10 +31,10 @@ export const Header = () => {
                     <ButtonGroup className="hidden md:block">
                         <a
                             role="button"
-                            href="https://github.com/christian-luntok/nutritrack"
+                            href="https://95classroom.thinkific.com/order?ct=0d034575-fdc7-4f02-ad95-6751193af3ed"
                             className="btn btn--secondary ml-4"
                         >
-                            Get Template
+                            Get Admission
                             <Icon icon="material-symbols:arrow-forward-rounded" />
                         </a>
                     </ButtonGroup>

@@ -14,34 +14,32 @@ export const HomeBanner = () => {
                 {/* Appear First */}
                 <MotionBTTContainer transition={{ delay: 0.2, duration: 0.5 }}>
                     <BadgeGroup alignment="center">
-                        <BadgeMessage>Discover NutriTrack!</BadgeMessage>
-                        <BadgeIcon icon="game-icons:meal" />
+                        <BadgeMessage>Get Hired</BadgeMessage>
+                        <BadgeIcon icon="game-icons:achievement" />
                     </BadgeGroup>
                 </MotionBTTContainer>
                 {/* Appear Second */}
                 <MotionBTTContainer transition={{ delay: 0.4, duration: 0.5 }}>
                     <PageTitle className="text-center mx-auto" type="heavy">
-                        The effortless way to plan your meals with the power of
-                        Notion.
+                     14 Secrets Revealed in Our Spoken English Course
                     </PageTitle>
                 </MotionBTTContainer>
                 {/* Appear Third */}
                 <MotionBTTContainer transition={{ delay: 0.6, duration: 0.5 }}>
                     <Content className="text-center" alignment="center">
                         <p>
-                            Streamline your nutrition journey and achieve your
-                            health goals with ease.{" "}
+                        Get Hired: Join our free Spoken English Course, learn key job-winning secrets, and transform your career journey!{" "}
                         </p>
                     </Content>
                     <div className="mt-6 mb-16 text-center">
                         <ButtonGroup alignment="center">
-                            <Button href="#features">Features</Button>
+                            <Button href="#features">What Will You Get?</Button>
                             <a
                                 role="button"
-                                href="https://github.com/christian-luntok/nutritrack"
+                                href="https://95classroom.thinkific.com/order?ct=0d034575-fdc7-4f02-ad95-6751193af3ed"
                                 className="btn btn--secondary"
                             >
-                                Get Template
+                                Get Admission
                                 <Icon icon="material-symbols:arrow-forward-rounded" />
                             </a>
                         </ButtonGroup>
@@ -51,7 +49,7 @@ export const HomeBanner = () => {
                 <MotionBTTContainer transition={{ delay: 0.8, duration: 0.5 }}>
                     <div className="page-banner--image">
                         <Image
-                            src="/nutritrack-hero-banner.png"
+                            src="/2.png"
                             width={1024}
                             height={680}
                             alt="Page Banner"

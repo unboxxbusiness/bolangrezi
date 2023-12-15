@@ -1,12 +1,12 @@
 {
-    "name": "nutritrack",
+    "name": "bolangrezi",
     "version": "1.1.0",
-    "description": "NutriTrack - A customizable landing page theme built with AstroJS and TailwindCSS, specifically designed for Notion creators.",
+    "description": "Join our free Spoken English Course, learn key job-winning secrets, and transform your career journey!",
     "main": "index.js",
     "private": true,
     "repository": {
-        "type": "git",
-        "url": "git+https://github.com/christian-luntok/nutritrack.git"
+        "type": "url",
+        "url": "https://95classroom.thinkific.com/order?ct=0d034575-fdc7-4f02-ad95-6751193af3ed"
     },
     "keywords": [
         "next",
@@ -17,8 +17,8 @@
         "tailwindcss",
         "tailwind"
     ],
-    "author": "chrstnl",
-    "homepage": "https://chrstnl.com/",
+    "author": "bolangrezi",
+    "homepage": "https://95classroom.thinkific.com/",
     "scripts": {
         "dev": "next dev",
         "build": "next build",

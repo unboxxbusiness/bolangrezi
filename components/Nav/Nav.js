@@ -4,12 +4,12 @@ import { Icon } from "@iconify/react";
 import { useRouter } from "next/router";
 
 const navigation = [
-    { name: "Features", to: "#features", href: "/#features" },
+    { name: "What will you get", to: "#features", href: "/#features" },
     { name: "Testimonials", to: "#testimonials", href: "/#testimonials" },
     { name: "FAQ?", to: "#faq", href: "/#faq" },
     {
         name: "Contact",
-        href: "https://chrstnl.com/",
+        href: "https://95classroom.thinkific.com/order?ct=0d034575-fdc7-4f02-ad95-6751193af3ed",
         isArrow: true,
         target: "_blank"
     }

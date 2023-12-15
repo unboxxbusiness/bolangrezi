@@ -6,10 +6,10 @@ import { Icon } from "@iconify/react";
 
 const DATA = [
     {
-        title: "Template",
+        title: "Quick Links",
         items: [
             {
-                label: "Features",
+                label: "What will you get",
                 href: "#features"
             },
             {
@@ -26,23 +26,19 @@ const DATA = [
         title: "Company",
         items: [
             {
-                label: "About",
-                href: "https://github.com/christian-luntok/",
+                label: "Admission 2024-25",
+                href: "https://95classroom.thinkific.com/order?ct=0d034575-fdc7-4f02-ad95-6751193af3ed",
                 target: "_blank"
             },
+            
             {
-                label: "Twitter",
-                href: "https://github.com/christian-luntok/",
-                target: "_blank"
-            },
-            {
-                label: "Instagram",
-                href: "https://github.com/christian-luntok/",
+                label: "Youtube",
+                href: "https://www.youtube.com/channel/UCE1jp6cO1Ltd7rQGIHUenWA/",
                 target: "_blank"
             },
             {
                 label: "Facebook",
-                href: "https://github.com/christian-luntok/",
+                href: "https://www.facebook.com/95classroom-Spoken-English-App-106170985003760",
                 target: "_blank"
             }
         ]
@@ -63,9 +59,9 @@ export const Footer = () => {
                             <div className="footer--logo grid gap-8">
                                 <Link href="/">
                                     <Image
-                                        src="/nutritrack.svg"
+                                        src="/logo.png"
                                         alt="logo"
-                                        className="h-10 w-auto"
+                                        className="h-13 w-auto"
                                         height="25"
                                         width="100"
                                         priority
@@ -75,10 +71,10 @@ export const Footer = () => {
                                 <ButtonGroup alignment="left">
                                     <a
                                         role="button"
-                                        href="https://github.com/christian-luntok/nutritrack"
+                                        href="https://95classroom.thinkific.com/order?ct=0d034575-fdc7-4f02-ad95-6751193af3ed"
                                         className="btn btn--secondary"
                                     >
-                                        Get Template
+                                        Get Admission
                                         <Icon icon="material-symbols:arrow-forward-rounded" />
                                     </a>
                                 </ButtonGroup>
@@ -127,15 +123,15 @@ export const Footer = () => {
             <SectionContainer className="footer-credits relative z-10">
                 <div className="wrap wrap-px py-6">
                     <p className="my-0">
-                        © {year} Nutritrack. All rights reserved{" - "}
+                        © {year} Bol Angrezi. All rights reserved{" - "}
                         <span className="font-normal">
                             A template by{" "}
                             <Link
                                 className="transition-colors duration-300 hover:underline"
-                                href="https://chrstnl.com"
+                                href="https://95classroom.thinkific.com/order?ct=0d034575-fdc7-4f02-ad95-6751193af3ed"
                                 target="_blank"
                             >
-                                chrstnl.
+                                95classroom Courses
                             </Link>
                         </span>
                     </p>
